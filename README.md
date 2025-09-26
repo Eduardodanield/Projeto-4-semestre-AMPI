@@ -1,12 +1,10 @@
 <p align="center">
-<p align="center">
-  <img width="100px" src="https://github.com/user-attachments/assets/24f5591b-2fa1-4302-bf1d-438bc04b8e23" alt="GitHub Readme Stats" />
+  <img width="100px" src="https://github.com/user-attachments/assets/24f5591b-2fa1-4302-bf1d-438bc04b8e23" alt="Logo Python" />
 </p>
 
 <p align="center">
   <h2>Projeto-4-semestre-AMPI</h2>
 </p>
-
 
 AMPI-PREDICT: Classificação de Risco Geriátrico
 Turma: X | Curso: [Nome do Curso] | Período: Noturno | Ano: 2025
