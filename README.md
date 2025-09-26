@@ -1,7 +1,8 @@
 <p align="center">
   <img width="100px" src="https://github.com/user-attachments/assets/24f5591b-2fa1-4302-bf1d-438bc04b8e23" alt="GitHub Readme Stats" />
 </p>
-### Projeto-4-semestre-AMPI
+
+## Projeto-4-semestre-AMPI
 
 
 AMPI-PREDICT: Classificação de Risco Geriátrico
