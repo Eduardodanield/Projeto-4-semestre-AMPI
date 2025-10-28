@@ -1,0 +1,3 @@
+timestamp,nome,idade,cidade,filhos,especialidade_recomendada,urgencia,pontuacao_total,categorias_problema,recomendacao,pergunta_13,pergunta_7,pergunta_14,pergunta_3,pergunta_12,pergunta_16,pergunta_11,pergunta_6,pergunta_17,pergunta_20,pergunta_10,pergunta_18,pergunta_1,pergunta_9
+2025-10-27 21:29:27,Eduardo,65,SP,1,geriatria,alta,18,"urinario, emocional, cognitivo, medicamentos, equilibrio, quedas, nutricional, pele, peso",Recomendamos agendar consulta o mais breve possível,Às vezes,Às vezes,Não,Às vezes,Sim,Às vezes,Uma vez,Diminuído,Sim,Pouco peso (menos de 5kg),,,,
+2025-10-27 21:31:25,Eduardo,65,SP,1,geriatria,baixa,4,"mobilidade, social",Consulta de acompanhamento recomendada,,Não,Sim,Não,Não,,,Normal,Não,,Não,Não,Pouca dificuldade,Não

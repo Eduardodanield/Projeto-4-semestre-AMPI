@@ -1,0 +1,26 @@
+# Ambientes virtuais
+venv/
+venv_py311/
+.env/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações locais
+*.env
+.DS_Store
+
+# Logs e temporários
+*.log
+tmp/
+
+# ----------------------------------------------------------------
+# Opcional: Se os seus dados forem sensíveis
+# ----------------------------------------------------------------
+# Se o arquivo 'dados_pacientes.csv' contiver informações reais
+# de pacientes ou dados que não devem ir para o GitHub público,
+# remova o '#' da linha abaixo:
+# dados_pacientes.csv
