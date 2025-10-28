@@ -43,11 +43,11 @@ O **AMPI-Predict** é um sistema inovador de triagem geriátrica que utiliza int
 
 ### 🎓 Contexto Acadêmico
 
-- **Instituição:** [Nome da Instituição]
-- **Curso:** Engenharia de Software / Sistemas de Informação
-- **Disciplina:** [Nome da Disciplina]
+- **Instituição:** Universidade NOve de Julho
+- **Curso:** Ciência da Computação
+- **Disciplina:** 
 - **Semestre:** 4º Período
-- **Ano:** 2024/2025
+- **Ano:** 2025
 
 ### 🔍 Problema Identificado
 
@@ -764,19 +764,17 @@ in the Software without restriction...
 ### Suporte
 
 - 📧 Email: suporte@ampi-predict.com
-- 💬 Discord: [Servidor AMPI](https://discord.gg/seu-servidor)
+- Site(colocar no Vercel quando tiver versão final)
 - 📱 WhatsApp: +55 (11) 99999-9999
 
 ### Links Úteis
 
 - [Documentação Completa](https://docs.ampi-predict.com)
-- [Blog do Projeto](https://blog.ampi-predict.com)
-- [Changelog](CHANGELOG.md)
-- [FAQ](docs/FAQ.md)
+- [FAQ] Fazer
 
 ---
 
-## 📊 Métricas de Qualidade
+## 📊 Métricas de Qualidade(ver sobre isso para colocar)
 
 [![Code Quality](https://img.shields.io/codacy/grade/HASH?style=flat-square)](https://www.codacy.com)
 [![Test Coverage](https://img.shields.io/codecov/c/github/Eduardodanield/Projeto-4-semestre-AM
